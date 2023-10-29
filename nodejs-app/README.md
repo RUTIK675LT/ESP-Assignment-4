@@ -11,4 +11,4 @@
 5) Start the application:  
    npm run start
 6) Access the application:  
-   Open index.html using 2 different browsers
+   Open index.html file in two different browsers (using different google accounts)
